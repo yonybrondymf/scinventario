@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Scinventario
+        psr4_prefix: Scinventario
+        src_path: app

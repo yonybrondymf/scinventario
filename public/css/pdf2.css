@@ -1,0 +1,32 @@
+body{
+	font-family: Arial, sans-serif; 
+  	font-size: 12px; 
+}
+
+.cabecera{
+	text-align: center;
+}
+
+table{
+	width: 100%;
+	position: relative;
+	border-collapse: collapse;
+}
+
+table th{
+	background-color: #E6E6E6;
+}
+table thead , table tbody{
+	position: relative;
+}
+
+table th, table td {
+  padding: 8px;
+  text-align: center;
+}
+
+table tbody tr:last-child td {
+  border: none;
+}
+
+
