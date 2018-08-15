@@ -20,7 +20,7 @@ MODULOS
 DEMO
 **************************
 
-Haga clik `aqui <http://codigosanha.com/scinventario/public/>`_ para interactuar con el sistema.
+Haga clik en el siguiente enlace (http://codigosanha.com/scinventario/public/) para interactuar con el sistema.
 
 Utilice los siguientes datos para acceder al sistema:
 
