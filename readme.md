@@ -16,5 +16,14 @@ MODULOS
 
 - Usuarios
 
+**************************
+DEMO
+**************************
 
+Haga clik `aqui <http://codigosanha.com/scinventario/public/>`_ para interactuar con el sistema.
+
+Utilice los siguientes datos para acceder al sistema:
+
+- Email: admin@gmail.com
+- Password: admin
 
